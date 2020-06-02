@@ -21,8 +21,8 @@ public class HttpService extends IntentService {
     public static final String PARAMS = "Params";
     public static final String RETURN = "Return";
     public static final String RESPONSE = "Response";
-    public static final String LINES = "https://games.antons.pl/lines/";
-    public static final String XO = "https://games.antons.pl/xo/";
+    public static final String LINES = "http://games.antons.pl/lines/";
+    public static final String XO = "http://games.antons.pl/xo/";
     public static final int GET = 1;
     public static final int POST = 2;
     public static final int PUT = 3;
